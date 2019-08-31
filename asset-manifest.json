@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lovely-cats/static/css/main.8442d099.chunk.css",
+    "main.js": "/lovely-cats/static/js/main.616b8cef.chunk.js",
+    "main.js.map": "/lovely-cats/static/js/main.616b8cef.chunk.js.map",
+    "runtime~main.js": "/lovely-cats/static/js/runtime~main.555331f1.js",
+    "runtime~main.js.map": "/lovely-cats/static/js/runtime~main.555331f1.js.map",
+    "static/js/2.0eed3af6.chunk.js": "/lovely-cats/static/js/2.0eed3af6.chunk.js",
+    "static/js/2.0eed3af6.chunk.js.map": "/lovely-cats/static/js/2.0eed3af6.chunk.js.map",
+    "index.html": "/lovely-cats/index.html",
+    "precache-manifest.eaf265750e08ea0f68d618215a1854f9.js": "/lovely-cats/precache-manifest.eaf265750e08ea0f68d618215a1854f9.js",
+    "service-worker.js": "/lovely-cats/service-worker.js",
+    "static/css/main.8442d099.chunk.css.map": "/lovely-cats/static/css/main.8442d099.chunk.css.map"
+  }
+}
